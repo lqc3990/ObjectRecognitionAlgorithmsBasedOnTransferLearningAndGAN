@@ -1,5 +1,6 @@
-# ObjectRecognitionAlgorithmsBasedOnTransferLearningAndGAN\
-简介：\<br> 
+# ObjectRecognitionAlgorithmsBasedOnTransferLearningAndGAN
+===
+简介: 
 ----
 基于迁移学习和对抗生成网络的分类器算法，\<br> 目标是实现源域和目标域的半监督域适应，将源域训练的分类器模型应用于目标域数据分类任务。\<br> 
 本文采用CycleGAN来实现域适应。 CycleGAN采用循环对称结构，加入了循环损失函数和重建损失函数，可以使源域和目标域双向生成，从而实现从源域到目标域的域适应。\<br> 
