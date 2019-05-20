@@ -1,4 +1,4 @@
-# ObjectRecognitionAlgorithmsBasedOnTransferLearningAndGAN\<br> 
+# ObjectRecognitionAlgorithmsBasedOnTransferLearningAndGAN\
 =======
 简介：\<br> 
 ----
