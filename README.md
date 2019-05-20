@@ -1,5 +1,4 @@
 # ObjectRecognitionAlgorithmsBasedOnTransferLearningAndGAN\
-=======
 简介：\<br> 
 ----
 基于迁移学习和对抗生成网络的分类器算法，\<br> 目标是实现源域和目标域的半监督域适应，将源域训练的分类器模型应用于目标域数据分类任务。\<br> 
